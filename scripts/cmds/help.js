@@ -27,7 +27,7 @@ module.exports = {
     name: "help",
     aliases: ["menu"],
     version: "6.0",
-    author: "𝐒𝐈𝐅𝐀𝐓",
+    author: "➤🥷 𝙼𝚒𝚗𝚊𝚝𝚘 𝚔𝚊𝚖𝚒𝚔𝚊𝚣𝚎🌀",
     shortDescription: "Show all available commands",
     longDescription: "Displays a categorized command list with a rotating video (different every time).",
     category: "system",
@@ -110,7 +110,7 @@ module.exports = {
         `  📖 𝐃𝐞𝐬𝐜: ${desc}\n\n` +
         `  💡 𝐔𝐬𝐚𝐠𝐞: ${usage}\n` +
         ` └──────ʚ🍄ɞ──────┘\n\n` +
-        ` 🌸𝐒𝐭𝐚𝐲 𝐇𝐚𝐩𝐩𝐲&𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥🌸\n` +
+        ` ➤🥷 𝙼𝚒𝚗𝚊𝚝𝚘 𝚔𝚊𝚖𝚒𝚔𝚊𝚣𝚎🌀\n` +
         `╰┈───┈──────┈───┈╯`;
 
       return message.reply({ body: detailMsg, attachment: fs.createReadStream(videoPath) });
@@ -118,7 +118,7 @@ module.exports = {
 
 
     let msg = `╭┈─────┈──┈─────┈╮\n` +
-              `       🌸 𝐁𝐎𝐓 𝐌𝐄𝐍𝐔 🌸\n` +
+              `       🌸𝙼𝚒𝚗𝚊𝚝𝚘 𝐌𝐄𝐍𝐔 🌸\n` +
               `╰┈─────┈──┈─────┈╯\n\n`;
 
     const sortedCategories = Object.keys(categoriesList).sort();
@@ -137,7 +137,7 @@ module.exports = {
     msg += `╭┈───────┈┈ ೄྀ࿐┐\n` +
            ` 🍄 𝐓𝐨𝐭𝐚𝐥: ${allCommands.size - 1}\n` +
            ` 🎀 𝐏𝐫𝐞𝐟𝐢𝐱: ${prefix}\n` +
-           ` 🌸𝐒𝐭𝐚𝐲 𝐇𝐚𝐩𝐩𝐲 & 𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥🌸\n` +
+           ` ➤🥷 𝙼𝚒𝚗𝚊𝚝𝚘 𝚔𝚊𝚖𝚒𝚔𝚊𝚣𝚎🌀\n` +
            `╰┈──────┈──────┈─┘`;
 
     return message.reply({
