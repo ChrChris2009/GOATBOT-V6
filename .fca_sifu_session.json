@@ -1,0 +1,112 @@
+{
+  "sessions": {
+    "61590391333546": {
+      "userID": "61590391333546",
+      "cookies": [
+        {
+          "key": "datr",
+          "value": "M2wcankTNs2Z7VFex1nPU6xC",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": false,
+          "expires": null
+        },
+        {
+          "key": "fr",
+          "value": "12mf5Fr6HjdO9aCML.AWfPqEKw2za_saAVOvXhytVZ1e_vJ24Qmi2MaMXAfodPOSjyhTg.BqHzsr..AAA.0.0.BqM5KJ.AWeVX2HqLR2XVv3tjdr8pkBCncA",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": true,
+          "expires": 1789540745000
+        },
+        {
+          "key": "sb",
+          "value": "6aGhaQYFze4mOKdDg5yHnTxd",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": false,
+          "expires": null
+        },
+        {
+          "key": "ps_l",
+          "value": "0",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": true,
+          "expires": 1816324745000
+        },
+        {
+          "key": "ps_n",
+          "value": "0",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": true,
+          "expires": 1816324745000
+        }
+      ],
+      "savedAt": 1781764745731,
+      "savedDate": "2026-06-18T06:39:05.731Z",
+      "version": 2
+    },
+    "61572085265876": {
+      "userID": "61572085265876",
+      "cookies": [
+        {
+          "key": "datr",
+          "value": "yOr-absNh2qp1kS_kQmabyiA",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": false,
+          "expires": null
+        },
+        {
+          "key": "fr",
+          "value": "0xqIfzK8FTgfEmBGx.AWcT5FKQ3w5hSqzs5TBMO00GeUNdvScv-8qq64aUt5rfspRRHvQ.Bp_urI..AAA.0.0.BqNI1k.AWeMNiFFryeU7JXrgst-x8Cutgw",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": true,
+          "expires": 1789604964000
+        },
+        {
+          "key": "xs",
+          "value": "25%3AM7TaAQzuopbcCA%3A2%3A1780934307%3A-1%3A-1",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": false,
+          "expires": null
+        },
+        {
+          "key": "c_user",
+          "value": "61572085265876",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": false,
+          "expires": null
+        },
+        {
+          "key": "sb",
+          "value": "yOr-aWwucqQzs_Nq8zr6a3eI",
+          "domain": "facebook.com",
+          "path": "/",
+          "secure": true,
+          "httpOnly": false,
+          "expires": null
+        }
+      ],
+      "savedAt": 1781828967742,
+      "savedDate": "2026-06-19T00:29:27.742Z",
+      "version": 2
+    }
+  },
+  "lastUserID": "61572085265876",
+  "updatedAt": 1781828967742
+}
