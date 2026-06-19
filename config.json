@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "MĀRĪN MGĪ 👿",
+  "nickNameBot": "➤🥷 𝙼𝚒𝚗𝚊𝚝𝚘 𝚔𝚊𝚖𝚒𝚔𝚊𝚣𝚎🌀",
   "prefix": ".",
   "adminPrefix": "?",
   "devPrefix": "/",
@@ -25,25 +25,25 @@
     "whitelistUsers": []
   },
   "adminBot": [
-    "100087331405932",
-    "61590391333546",
-    "100065590940242"
+    "61576806175417",
+    "61568806302361",
+    ""
   ],
   "premiumUsers": [
-    "100087331405932"
+    "61568806302361"
   ],
   "devUsers": [
-    "100087331405932",
-    "61590391333546"
+    "61568806302361",
+    "61576806175417"
   ],
-  "feeCollectorUID": "100087331405932",
+  "feeCollectorUID": "61568806302361",
   "feeCollectorUID_note": "All money spent by users on commands (requiredMoney) will be added to this UID's wallet. Set to empty string to disable.",
   "notes_premiumUsers": "List of user IDs with premium access (role 3)",
   "notes_devUsers": "List of developer IDs with full access (role 4)",
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100087331405932"
+      "61568806302361"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds list can use the bot"
   },
